@@ -1,1 +1,1 @@
-# Measurements-on-an-Anderson-Chain
+ A monitored single particle in one-dimensional Anderson-localized system is time evolved under a hamiltonian and interrupted periodically by local, projective measurements. The probability density and the average position of the particle can be used to study the effect of measurements on the dynamics.
